@@ -1,0 +1,46 @@
+html {
+    font-size: 10px;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Modak', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: orangered;
+    font-weight: normal;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li, ul {
+    font-size: 20px;
+    line-height: 1.1;
+    letter-spacing: .5px;
+    font-weight: 800;
+    width: 600px;
+    font-family: 'Fondamento', cursive;
+}
+p {
+    color: navajowhite;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px double white;
+    background-color: #5C6161;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 10px 10px 0;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
